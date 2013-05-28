@@ -5,7 +5,7 @@ Unofficial collection of Lua scripts for darktable.
 
 Description
 -----------
-Since few weeks ago, [darktable[(https://github.com/darktable-org) master branch supports Lua scripting.
+Since few weeks ago, [darktable](https://github.com/darktable-org) master branch supports Lua scripting.
 
 You can find informations and documentations in the darktable project pages:
 - http://www.darktable.org/redmine/projects/darktable/wiki/LuaUsage
