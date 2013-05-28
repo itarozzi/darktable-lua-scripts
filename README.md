@@ -25,6 +25,13 @@ Quick Start
 
     require "the_script_name"
 
+List of the working scripts
+---------------------------
+### cvs-list.lua
+Export the information of selected images to a csv file.
+This script regists a new darktable Storage; the path of exported file can be assigned in the Lua preference tab.
+... of course you can do the same thing accessing directly to the darktable sqlite database!
+
 
 Whishlist and ToDo list
 -----------------------
