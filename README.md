@@ -1,6 +1,11 @@
 darktable-lua-scripts
 =====================
 
+**WARNING**
+with the recent versions of darktable this script seems not working as aspected. So consider this repository as obsolete. 
+I'm not planning to update the current repository.  Next days I will try to correct my script and push it to the official darktable lua script repository at https://github.com/darktable-org/lua-scripts
+
+
 Unofficial collection of Lua scripts for darktable.
 
 Description
